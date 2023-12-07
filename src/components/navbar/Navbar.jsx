@@ -7,7 +7,10 @@ const Navbar = () => {
   const { t } = useTranslation();
   return (
     <div>
+      
+      
       <h1>{L[language].hello} </h1>
+      <h1>hii </h1>
       <div className='logo'></div>
       <ul>
         <li>Home</li>
